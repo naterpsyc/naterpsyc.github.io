@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://naterpsyc.github.io/sitemap.html.gz
+Sitemap: https://naterpsyc.github.io/app/sitemap.html.gz
+Sitemap: https://naterpsyc.github.io/assets/sitemap.html.gz
+Sitemap: https://naterpsyc.github.io/css/sitemap.html.gz
+Sitemap: https://naterpsyc.github.io/includes/sitemap.html.gz
+Sitemap: https://naterpsyc.github.io/item/sitemap.html.gz
+Sitemap: https://naterpsyc.github.io/src/sitemap.html.gz
